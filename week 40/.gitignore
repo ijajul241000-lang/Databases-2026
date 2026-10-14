@@ -1,0 +1,10 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# Local database dumps and backups
+*.dump
+*.backup
+*.sql.gz
