@@ -1,0 +1,4 @@
+# Local environment files
+.env
+.vscode/
+.DS_Store
