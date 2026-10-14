@@ -1,5 +1,4 @@
--- TrailShop sample data based on the supplied Week 40 chapter notes.
--- Run only once, after creating all six tables.
+
 
 INSERT INTO categories (name, description) VALUES
     ('Footwear', 'Hiking boots, trail runners, and sandals'),

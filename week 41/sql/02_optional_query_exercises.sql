@@ -1,5 +1,4 @@
--- Week 41 Exercise 3: optional query-writing practice
--- Run against the Week 40 trailshop database. Read-only SELECT queries.
+
 
 -- 3.1: Products with stock less than 15
 SELECT name, price

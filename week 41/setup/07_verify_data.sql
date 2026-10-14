@@ -1,4 +1,4 @@
--- Run in the trailshop database after inserting sample data.
+
 SELECT * FROM categories ORDER BY category_id;
 SELECT * FROM customers ORDER BY customer_id;
 SELECT * FROM products ORDER BY product_id;

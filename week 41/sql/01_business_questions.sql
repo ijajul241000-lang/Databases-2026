@@ -1,5 +1,4 @@
--- Week 41 Exercise 1: TrailShop business questions
--- Run against the Week 40 trailshop database. Read-only SELECT queries.
+
 
 -- 1. Products in Footwear
 SELECT p.name, p.price, p.stock

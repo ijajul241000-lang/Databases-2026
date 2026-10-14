@@ -1,5 +1,3 @@
--- TrailShop schema based on the supplied Week 40 chapter notes.
--- Run this in the empty trailshop database.
 
 CREATE TABLE categories (
     category_id SERIAL PRIMARY KEY,
